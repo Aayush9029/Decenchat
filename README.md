@@ -2,7 +2,8 @@
 Awesome Opensource Decentralized chat, using peer to peer connection,
 no stinky server in between chat system using web RTC system. 
 
-## ![MIT](https://img.shields.io/github/license/Aayush9029/Decenchat?color=red&style=flat-square) ![Repo Size](https://img.shields.io/github/repo-size/Aayush9029/Decenchat?color=orange&style=flat-square) ![Released](https://img.shields.io/github/release-date/Aayush9029/Decenchat) ![](https://img.shields.io/github/last-commit/Aayush/Decenchat)
+## ![MIT](https://img.shields.io/github/license/Aayush9029/Decenchat?color=red&style=flat-square) ![Repo Size](https://img.shields.io/github/repo-size/Aayush9029/Decenchat?color=orange&style=flat-square) [![Release Date](https://img.shields.io/badge/released-June2020-green?style=flat-square)](https://www.apple.com/ios/)
+
 ---
 Build from the ground up with privacy in mind,
 requires 16char key exchange between host for proper encryption.
