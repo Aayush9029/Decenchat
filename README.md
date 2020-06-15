@@ -2,6 +2,7 @@
 Awesome Opensource Decentralized chat, using peer to peer connection,
 no stinky server in between chat system using web RTC system. 
 
+#### Try the beta [HERE](https://aayush9029.github.io/Decenchat/)
 ## ![MIT](https://img.shields.io/github/license/Aayush9029/Decenchat?color=red&style=flat-square) ![Repo Size](https://img.shields.io/github/repo-size/Aayush9029/Decenchat?color=orange&style=flat-square) [![Release Date](https://img.shields.io/badge/released-June2020-green?style=flat-square)](https://www.apple.com/ios/)
 
 ---
