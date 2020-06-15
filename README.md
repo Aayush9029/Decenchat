@@ -30,6 +30,8 @@ requires 16char key exchange between host for proper encryption.
   - Serverless *Static*
  
 - Features
+  - > Data sent between the two peers do not touch any other servers, so the connection speed is limited only by the upload and download rates of the two peers. This also means you don't have the additional latency of an intermediary server.
+
   - p2p connected
   - data is not stored anywhere except with the user
  
